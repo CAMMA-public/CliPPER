@@ -75,6 +75,12 @@ If you find our work useful, please consider citing:
 }
 ```
 
+## Pretrained Models
+Coming Soon
+
+## Inference Setup
+Coming Soon
+
 ## License
 This repository is released under the **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.  
 By downloading and using this code, you agree to the terms specified in the [LICENSE](LICENSE.txt)
