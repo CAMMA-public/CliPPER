@@ -20,7 +20,7 @@ Surgical procedures are long, complex, and visually subtle, yet a large fraction
 ## ⚙️ Method
 **CliPPER** is a context-aware video–language pretraining framework designed for long-form surgical videos, combining dual-encoder contrastive learning with temporal and fine-grained supervision. Each video is split into multiple clips processed independently through a Video Encoder (BEiT) and a Text Encoder (BERT), producing frame-level and text embeddings that are then enhanced by separate context encoders to capture intra-video dependencies. The model is trained using a context-aware video-text contrastive loss to align clips with textual descriptions while modeling extended procedural context, a cycle-consistency alignment loss to reduce many-to-one ambiguities, and Clip Order Prediction (COP) to enforce temporal reasoning. Additionally, a Multi-Modal Encoder fuses visual and textual features to perform Frame–Text Matching (FTM), enabling fine-grained alignment of individual frames with textual tokens. Together, these objectives allow CliPPER to learn rich, temporally-aware, and semantically precise video–language representations suitable for complex surgical understanding tasks.
 
-![Method Architecture](figures/eccv_architecture_clipper_final-1.png)
+![Method Architecture](figures/architecture_clipper_final-1.png)
 
 ## 📊 Results
 
