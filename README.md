@@ -74,3 +74,12 @@ If you find our work useful, please consider citing:
     primaryClass={cs.CV}
 }
 ```
+
+---
+
+## License
+This repository is released under the **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.  
+By downloading and using this code, you agree to the terms specified in the [LICENSE](LICENSE.txt)
+
+⚠️ Note: Third-party libraries and models are subject to their respective licenses.  
+---
