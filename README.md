@@ -65,13 +65,14 @@ To test finer-grained understanding, we evaluate activity triplet (*ivt*) and in
 If you find our work useful, please consider citing:
 
 ```bibtex
-@misc{author2026project,
-    title={Project Title TBD}, 
-    author={Author, First and Author, Second and Author, Third},
-    year={2026},
-    eprint={XXXX.XXXXX},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@misc{stilz2026clippercontextualvideolanguagepretraining,
+      title={CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition}, 
+      author={Florian Stilz and Vinkle Srivastav and Nassir Navab and Nicolas Padoy},
+      year={2026},
+      eprint={2603.24539},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.24539}, 
 }
 ```
 
